@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Environment
+  - Background
+  - ProjectileShield
+  - Projectile
+  - Hook
+  - GroundCheck
+  - WindArea
+  - WindVortex
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerLayer
+  - EnvironmentLayer
+  - RopeLayer
+  - Enemy
+  - Room
+  - Projectile
+  - InteractableEnvironment
+  - Summons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2933079009
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 4200522051
+    locked: 0
+  - name: Weapon
+    uniqueID: 2456201791
+    locked: 0
+  - name: PlayerUI
+    uniqueID: 4162558265
+    locked: 0
